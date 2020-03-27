@@ -1,9 +1,8 @@
-# REPaper
-ACL paper about Relation extraction. These papers are summarised by [this blog](https://blog.csdn.net/kaiyuan_sjtu).
+ACL papers about Relation extraction. These papers are summarised by [this blog](https://blog.csdn.net/kaiyuan_sjtu).
 
 [awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction)
 
-# 实体关系提取的papers
+# 实体关系抽取相关的论文
 [Relation Classification via Convolutional Deep Neural Network（Zeng/Coling2014）](https://www.aclweb.org/anthology/C14-1220/)[code](https://github.com/Thidtc/Relation-Classification-via-Convolutional-Deep-Neural-Network)
 
 [Relation Extraction: Perspective from Convolutional Neural Networks（Nguyen/ACL2015）](https://cs.nyu.edu/~thien/pubs/vector15.pdf)[code](https://github.com/roomylee/cnn-relation-extraction)
